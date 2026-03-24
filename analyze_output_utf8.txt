@@ -1,0 +1,37 @@
+﻿Analyzing prompt-studio...                                      
+
+  error - Classes can only extend other classes - lib\providers\prompt_provider.dart:87:30 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\providers\prompt_provider.dart:88:28 - extra_positional_arguments
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:91:5 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:91:13 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:106:18 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:106:26 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:106:58 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:107:18 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:107:26 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:107:54 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:108:18 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:108:26 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:108:61 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:109:18 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:109:26 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:109:55 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:110:18 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:110:26 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:110:57 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:111:18 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:111:26 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:111:61 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:112:18 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:112:26 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:112:56 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:113:19 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:113:27 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:113:63 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:114:18 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:114:26 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:114:62 - undefined_identifier
+  error - Undefined name 'state' - lib\providers\prompt_provider.dart:119:5 - undefined_identifier
+  error - The function 'StateNotifierProvider' isn't defined - lib\providers\prompt_provider.dart:123:24 - undefined_function
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\views\builder_page.dart:136:42 - deprecated_member_use
+
